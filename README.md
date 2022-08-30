@@ -1,17 +1,17 @@
-### Quem sou eu?
+### Who am I??
 
 🌍 Brazilian/Nordestino/Baiano
 
 📚 Student of the Computer Science 
 
-💻 #python #Java
+💻 #Python #Java
 
 ❤ Data analysis
 
-👊 Acredito que a tecnologia pode e deve ser utilizada em prol da sociedade.
+👊 I believe that technology can and should be used for the benefit of society.
 
 
-### Áreas de Interesse:
+### Areas of interest:
 
 -Machine Learning
 
