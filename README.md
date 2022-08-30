@@ -11,7 +11,7 @@
 👊 Acredito que a tecnologia pode e deve ser utilizada em prol da sociedade.
 
 
-###Áreas de Interesse:
+### Áreas de Interesse:
 
 -Machine Learning
 
