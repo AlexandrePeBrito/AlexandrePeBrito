@@ -1,6 +1,25 @@
-### Hi there 👋
+### Quem sou eu?
 
-I'm Alexandre Brito, I'm a 23 year old Brazilian developer and enthusiastic about tech-related things. I am pursuing a degree in Computer Science. I like to code a lot of different things, but my main focus is Python development. At the moment I'm working mainly with Java and Django.
+🌍 Brazilian/Nordestino/Baiano
+
+📚 Student of the Computer Science 
+
+💻 #python #Java
+
+❤ Data analysis
+
+👊 Acredito que a tecnologia pode e deve ser utilizada em prol da sociedade.
+
+
+### Áreas de Interesse:
+
+-Machine Learning
+
+-Data Science
+
+-Data Visualization
+
+-Python
 
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrePeBrito&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePeBrito&layout=compact&show_icons=true&theme=radical)](https://github.com/AlexandrePeBrito)
