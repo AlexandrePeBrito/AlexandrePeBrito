@@ -1,4 +1,4 @@
-![image](https://github.com/AlexandrePeBrito/AlexandrePeBrito/assets/88007398/5e3e9acf-1d53-4491-9fff-d813c4bbeb8d)### Who am I??
+### Who am I??
 
 🌍 Brazilian/Nordestino/Baiano
 
