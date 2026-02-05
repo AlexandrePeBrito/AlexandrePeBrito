@@ -18,15 +18,6 @@ I prioritize logic, structure, and behavior over mere features.
 
 ---
 
-### 🧠 Engineering mindset
-
-- Clean architecture & separation of concerns  
-- Thinking in systems, not just features  
-- Code is a long-term asset, not a quick patch  
-- Prefer simple, well-structured solutions over clever hacks
-
----
-
 ### 🚀 Career focus
 
 I'm aiming to grow as a **software engineer**, working on backend systems that:
