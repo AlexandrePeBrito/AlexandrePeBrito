@@ -1,27 +1,37 @@
-### Who am I??
+## Hi, I'm Alexandre 👋
 
-🌍 Brazilian/Nordestino/Baiano
+🇧🇷 Brazilian Software Engineer  
+🎓 Computer Science graduate  
+💻 Backend-focused developer (Java)
 
-📚 Bachelor's degree in Computer Science
+I prioritize logic, structure, and behavior over mere features.
 
-💻 #Python #Java
+---
 
-❤ Data analysis
+### 🔧 What I work with
 
-👊 I believe that technology can and should be used for the benefit of society.
+- **Backend development** (Java)
+- Application architecture and business logic
+- REST APIs and system integration
+- Relational databases, data modeling and SQL
+- Writing code that is readable, testable and maintainable
 
+---
 
-### Areas of interest:
+### 🧠 Engineering mindset
 
--Machine Learning
+- Clean architecture & separation of concerns  
+- Thinking in systems, not just features  
+- Code is a long-term asset, not a quick patch  
+- Prefer simple, well-structured solutions over clever hacks
 
--Data Science
+---
 
--Data Visualization
+### 🚀 Career focus
 
--Python
-
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrePeBrito&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePeBrito&layout=compact&show_icons=true&theme=radical)](https://github.com/AlexandrePeBrito)
+I'm aiming to grow as a **software engineer**, working on backend systems that:
+- Solve real problems
+- Have clear ownership and responsibility
+- Demand reasoning, not just execution
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-brito-6629ba216/)
